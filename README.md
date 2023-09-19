@@ -5,10 +5,10 @@ Defines a generic set of notifications that can be applied to all objects and at
 - 1.0.0-tsi.d.t : Model for the Transport SDN Introduction at Telefonica Germany
 
 ### UML
-- [Notifications_1.0.0-tsi.230919.1425](./Notifications_1.0.0-tsi.230919.1425.zip)
+- [Notifications_1.0.0-tsi.230919.1710](./Notifications_1.0.0-tsi.230919.1710.zip)
 
 ### Overview 
-- [Notifications_1.0.0-tsi.230919.1425+overview.1](./Notifications_1.0.0-tsi.230919.1425+overview.1.png)
+- [Notifications_1.0.0-tsi.230919.1710+overview.1](./Notifications_1.0.0-tsi.230919.1710+overview.1.png)
 
 ### GenDoc Export
 - not available for definitions of notifications
@@ -17,7 +17,7 @@ Defines a generic set of notifications that can be applied to all objects and at
 - not available for definitions of notifications
 
 ### YANG File
-- [Notifications_1.0.0-tsi.230919.1425+yang.1](./Notifications_1.0.0-tsi.230919.1425+yang.1.zip)
+- [Notifications_1.0.0-tsi.230919.1710+yang.1](./Notifications_1.0.0-tsi.230919.1710+yang.1.zip)
 
 ### JSON Schema
 - to be provided
